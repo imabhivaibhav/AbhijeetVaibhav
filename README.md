@@ -8,9 +8,13 @@
 ## 🚀 About Me
 I'm Abhijeet Vaibhav... Btech. Undergraduate at Indian Institute of Technology Bombay (IIT Bombay) in the department of Electrical Engineering.
 
+## 🛠 My Projects...
+
+### Line Follower Robot
+The Line Follower Robot is a basic robot that follows a specific path indicated by a line (usually a black line on a light colored surface) having some particular width.
 
 
-## 🚀 Contact
+## 📫 How to reach me...
 
 Email at: contact@abhijeetvaibhav.engineer
 
@@ -28,7 +32,7 @@ Email at: contact@abhijeetvaibhav.engineer
 
 
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imabhivaibhav.github.io/)
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theabhijeetvaibhav)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imabhivaibhav)
