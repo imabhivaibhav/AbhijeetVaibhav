@@ -18,7 +18,7 @@ The Line Follower Robot is a basic robot that follows a specific path indicated 
 ![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/2.JPG)
 ![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/3.JPG)
 ![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/Line%20follower.png)
-[![website](https://img.shields.io/badge/more-0A66C2?style=for-the-badge&logo=website&logoColor=white)](https://myproject.abhijeetvaibhav.engineer)
+[![website](https://img.shields.io/badge/...more-0A66C2?style=for-the-badge&logo=web&logoColor=white)](https://myproject.abhijeetvaibhav.engineer)
 
 ## 📫 How to reach me...
 
