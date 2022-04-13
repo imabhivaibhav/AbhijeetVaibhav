@@ -2,7 +2,7 @@
 @The_AbhijeetVaibhav
 
 
-![Logo](https://raw.githubusercontent.com/imabhivaibhav/Abhijeetvaibhav/main/SAve.png)
+![Logo](https://raw.githubusercontent.com/imabhivaibhav/Abhijeetvaibhav/main/SAve.jpg)
 
 
 ## 🚀 About Me
