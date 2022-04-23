@@ -14,10 +14,13 @@ I'm Abhijeet Vaibhav... Btech. Undergraduate at Indian Institute of Technology B
 The Line Follower Robot is a basic robot that follows a specific path indicated by a line (usually a black line on a light colored surface) having some particular width.
 
 
-![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG)
-![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/2.JPG)
-![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/3.JPG)
-![Logo](https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/Line%20follower.png)
+<div class="MagicSlideshow" data-options="">
+    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>
+    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/2.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/2.JPG"/>
+    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/3.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/3.JPG"/>
+     <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/Line%20follower.png" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/Line%20follower.png"/>
+    
+</div>
 [![website](https://img.shields.io/badge/...more-0A66C2?style=for-the-badge&logo=web&logoColor=white)](https://myproject.abhijeetvaibhav.engineer)
 
 ## 📫 How to reach me...
@@ -27,10 +30,7 @@ Email at: contact@abhijeetvaibhav.engineer
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="MagicSlideshow" data-options="">
-    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>
-    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>
-</div>
+
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="imabhivaibhav" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/imabhivaibhav?trk=profile-badge">Get connected</a></div>
               
