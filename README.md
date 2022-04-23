@@ -28,18 +28,8 @@ Email at: contact@abhijeetvaibhav.engineer
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="MagicSlideshow" data-options="">
-    <img src="images/places-01-600.jpg" data-fullscreen-image="images/places-01-1075.jpg"/>
-    <img src="images/places-02-600.jpg" data-fullscreen-image="images/places-02-1075.jpg"/>
-    <img src="images/places-03-600.jpg" data-fullscreen-image="images/places-03-1075.jpg"/>
-    <img src="images/places-04-600.jpg" data-fullscreen-image="images/places-04-1075.jpg"/>
-    <img src="images/places-05-600.jpg" data-fullscreen-image="images/places-05-1075.jpg"/>
-    <img src="images/places-06-600.jpg" data-fullscreen-image="images/places-06-1075.jpg"/>
-    <img src="images/places-07-600.jpg" data-fullscreen-image="images/places-07-1075.jpg"/>
-    <img src="images/places-08-600.jpg" data-fullscreen-image="images/places-08-1075.jpg"/>
-    <img src="images/places-09-600.jpg" data-fullscreen-image="images/places-09-1075.jpg"/>
-    <img src="images/places-10-600.jpg" data-fullscreen-image="images/places-10-1075.jpg"/>
-    <img src="images/places-11-600.jpg" data-fullscreen-image="images/places-11-1075.jpg"/>
-    <img src="images/places-12-600.jpg" data-fullscreen-image="images/places-12-1075.jpg"/>
+    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>
+    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>    <img src="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG" data-fullscreen-image="https://raw.githubusercontent.com/imabhivaibhav/AbhijeetVaibhav/main/1.JPG"/>
 </div>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="imabhivaibhav" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/imabhivaibhav?trk=profile-badge">Get connected</a></div>
