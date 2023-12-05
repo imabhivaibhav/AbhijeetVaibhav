@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.load {
+    width: 100vw;
+    background-color: red;
+    height: 3px;
+    animation: loader 1s;
+}
+
+header {
+
+    background-color: rgb(1, 1, 29);
+    text-decoration: none;
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(101, 146, 243);
+}
+
+nav ul li a:hover {
+    color: red;
+    transform: scale(1.2);
+}
+
+.at {
+    position: relative;
+    color: antiquewhite;
+    left: 60%;
+    animation: move 5s infinite;
+
+}
+
+
+.container {
+    min-height: calc(100vh - 50px - 12vh);
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.temp {
+    margin: 10px 100px 10px 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 90vw;
+    background-color: rgb(5, 5, 39);
+}
+
+.temp:hover {
+    background-color: rgb(5, 5, 39);
+    color: antiquewhite;
+    transform: scale(1.1);
+}
+
+.pic {
+    margin: 10px 0;
+    width: 60vw;
+    display: inline-flex;
+    justify-content: center;
+    background-color: blue;
+
+}
+
+.pic img {
+    margin: 0 0 0 0;
+    width: 60vw;
+}
+
+.pic:hover {
+    transform: scale(0.8);
+}
+
+.bio {
+    width: 20vw;
+    display: inline;
+    font-size: large;
+    font-weight: 900;
+    margin: 10px 10px;
+    border-radius: 5px;
+    color: bisque;
+
+}
+
+.bio:hover {
+    background-color: rgb(5, 5, 39);
+    color: white;
+    transform: scale(1.002);
+    border: 2px solid gold;
+
+}
+
+.box {
+    max-width: 91vw;
+    margin: 30px 150px 30px 150px;
+
+}
+
+.box h2:hover {
+    transform: scale(1.05);
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+
+.card-item {
+    width: 12vw;
+    margin: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.card-item:hover {
+    transform: scale(1.05);
+
+}
+
+.card-item img {
+    width: 140px;
+    height: 140px;
+}
+
+.card-item img:hover {
+    animation: rotator 1s ease-in infinite;
+
+}
+
+
+.lines {
+    margin-top: 10px;
+    text-align: center;
+    color: blue;
+}
+
+.align-text {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(1, 1, 29);
+    color: rgb(101, 146, 243);
+}
+
+.copy {
+
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
