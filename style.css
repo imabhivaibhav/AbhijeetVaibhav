@@ -44,6 +44,7 @@ nav ul li a:hover {
     color: antiquewhite;
     left: 60%;
     animation: move 5s infinite;
+    cursor: pointer;
 
 }
 
