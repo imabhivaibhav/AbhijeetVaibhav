@@ -87,6 +87,7 @@ nav ul li a:hover {
 
 .pic:hover {
     transform: scale(0.8);
+    <img src="https://www.abhijeetvaibhav.tech/GOA.jpg" alt="">
 }
 
 .bio {
@@ -150,7 +151,7 @@ nav ul li a:hover {
 }
 
 .card-item img:hover {
-    animation: rotator 1s ease-in infinite;
+    animation: rotator 2s ease-in infinite;
 
 }
 
